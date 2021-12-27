@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello Git4");
         System.out.println("merge");
         System.out.println("hot-fix");
+        System.out.println("pulltest");
     }
 }
